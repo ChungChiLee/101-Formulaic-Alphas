@@ -100,4 +100,4 @@ Appendix 3: A brief test of xgboost result, the period of interest is divided in
 
 Appendix 4: Same as the analysis above but the label is 1-day log return
 
-![plot](./image/log_returns_1d.png)
+![plot](./image/log_returns_1d_v2.png)
