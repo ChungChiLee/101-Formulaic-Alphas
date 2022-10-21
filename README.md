@@ -94,7 +94,7 @@ Appendix 3: A brief test of xgboost result, the period of interest is divided in
 
 * Prediced returns from 5 $\alpha$-factors of xgboost model with test set (unit is base-point).
 
-![plot](./image/log_returns_5d.png)
+![plot](./image/log_returns_4d.png)
 
 
 
