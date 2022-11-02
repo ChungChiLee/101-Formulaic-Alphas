@@ -11,7 +11,11 @@ Notes:
 
 ************************************************************************************
 
+# Goal
+
 This is our first attempt to test the performance of the alpha factors based on this paper, "101 Formulaic Alphas". The method is as follows.
+
+# Method
 
 Step 1: Read in and clean the price data of the stocks in the Philippine market. Then, all the values of 101 alpha factors are calculated.
 
@@ -31,7 +35,7 @@ Step 7: Move to the next testing date and repeat Steps 4-6.
 
 
 
-Part of our results:
+# Brief results:
   * Testing 5 sets of training parameters.
   * PSEI index (green), return with transaction cost (orange), and return without transaction cost (blue).
   * x-axis is the returns in percentage; y-axis is the date.
@@ -55,6 +59,7 @@ Part of our results:
 
 *****************************************
 
+# Appendix
 
 Appendix 1: Quantile analysis: this is a brief test at all the 101 $\alpha$ factors. y-axis is the mean returns from each quantile and the unit is the base-point (1E-4).
 
